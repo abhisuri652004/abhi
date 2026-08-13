@@ -1,2 +1,1 @@
-# abhi
-repo with readme
+I Am Abhinaya V . I have completed my Bsc computer science with cognitive systems from PSGR Krishnammal College For Women, and i am currently pursuing my MCA at sona college of technology. I have a strong interest in software development, web technology and AI.
